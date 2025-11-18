@@ -1,0 +1,16 @@
+{
+  "name": "fbdown",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Facebook Video Downloader API.",
+  "main": "index.js",
+  "dependencies": {
+    "@vercel/node": "^3.0.20"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
